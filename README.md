@@ -19,10 +19,9 @@
 
 | | Details |
 |---|---|
-| **Name** | Abir Barman |
-| **Role** | Data Scientist & Analytics Engineer |
+| **Name** | Abhishek R |
+| **Role** | Data Analytics |
 | **Project** | Cohort Analysis — Customer Retention & Revenue Analytics |
-| **License** | [MIT](LICENSE) |
 | **Year** | 2026 |
 
 ---
